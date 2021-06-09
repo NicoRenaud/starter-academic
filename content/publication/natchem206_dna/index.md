@@ -1,18 +1,16 @@
 ---
-title: "Mechanically controlled quantum interference in individual π‑stacked dimers"
+title: "Deep-Hole Transfer Leads to Ultrafast Charge Migration in DNA Hairpins"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Riccardo Frisenda
-- Vera Jannssen
-- Ferdinand Grozema
-- Herre van der Zant
 - Nicolas Renaud
+- Michelle Harris
+- Ferdinand Grozema
 
 date: "2016-01-01T00:00:00Z"
-doi: "https://doi.org/10.1038/nchem.2588"
+doi: "https://doi.org/10.1038/nchem.2590"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-01T00:00:00Z"
@@ -27,22 +25,22 @@ publication_types: ["2"]
 publication: Nature Chemistry
 publication_short: Nat. Chem.
 
-abstract: Recent observations of destructive quantum interference in single-molecule junctions confirm the role of quantum effects in the electronic conductance properties of molecular systems. These effects are central to a broad range of chemical and biological processes and may be beneficial for the design of single-molecule electronic components to exploit the intrinsic quantum effects that occur at the molecular scale. Here we show that destructive interference can be turned on or off within the same molecular system by mechanically controlling its conformation. Using a combination of ab initio calculations and single-molecule conductance measurements, we demonstrate the existence of a quasiperiodic destructive quantum-interference pattern along the breaking traces of π-stacked molecular dimers. The results demonstrate that it is possible to control the molecular conductance over more than one order of magnitude and with a sub-ångström resolution by exploiting the subtle structure–property relationship of π-stacked dimers.
+abstract: Charge transport through the DNA double helix is of fundamental interest in chemistry and biochemistry but also has potential technological applications such as DNA-based nanoelectronics. For the latter, it is of considerable interest to explore ways to influence or enhance charge transfer. In this work we demonstrate a new mechanism for DNA charge transport, deep-hole transfer, which involves long-range migration of a hole through lower-lying electronic states of the nucleobases. We demonstrate, in a combined experimental and theoretical study, that it is possible to achieve such transfer behavior by changing the energetics of charge injection. This mechanism leads to an enhancement in transfer rates by up to two orders of magnitude and much weaker distance dependence. This transfer is faster than relaxation to the lowest energy state, setting this mechanism apart from those previously described. This opens up a new direction to optimize charge transfer in DNA with unprecedented charge transfer rates.
 
 # Summary. An optional shortened abstract.
-summary: Interferring with quantrum transport in mechanically controlled molecular dimer
+summary: Deep hole transfer break the speed limit
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/ftp/arxiv/papers/1705/1705.07723.pdf'
+url_pdf: 'https://research.tudelft.nl/en/publications/deep-hole-transfer-leads-to-ultrafast-charge-migration-in-dna-hai'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,9 +52,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Quantum Transport in Molecular Dimer'
+  caption: 'Deep hole transfer break the speed limit'
   focal_point: ""
-  preview_only: false
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
