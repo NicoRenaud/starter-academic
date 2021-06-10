@@ -31,3 +31,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Grasping the molecular dynamics of small molecule in tunelling junction can provide a much deeper understanding of mechanically controlled break-junction experiments. However accurately computing the quantum transport properties along a full MD trajectory is a very costly task.
+
+Using a finite number of training points, machine learning models can be trained to map the conformational space of the molecule to its low-bias conductance values. Linking machine learning and quantum transport would allow for a much more resolved characterization of molecular junctions and would be the first step toward generative modelling of molecular systems with desired quantum transport properties.
+
+
+{{< figure src="nnjunction.png" caption="" >}}

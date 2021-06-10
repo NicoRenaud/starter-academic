@@ -30,3 +30,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Simulating the time-dependent dynamics of the electronic density of optically excited molecules represent a fantastic challenge for the development of quatum chemistry. Real-Time Time-Dependent Density Functional Theory holds thr promise to give an accurate evaluation of this dynamics at a reasonable computational cost. In contrast to the linear response time-dependent DFT, RT-TD-DFT directly computes the dynamics of the density in repsonse of its excitation by a transient electromagnetic perturbation. The equation of motion :
+
+$$\dot{\rho(t)} = -i\hbar[\mathcal{F}(\rho(t)); \rho(t)]$$
+
+where $\mathcal{F}$ is the Fock matrix and $\rho(t)$ the density matrix. Solving this equation for example using ADF to compute the Fock matrix on a localized orbital Slater basis set, allows to follow the population of the different molecular orbital during and after the excitation process. The Fourier transform of the dipole moment can then gives the excitation spectrum of the system.
+
+Making no assumption of the type of excitation, RT-TD-DFT can access excitations that linear response cannot grasp. This is for example the case of excitations of core electrons that requires very high-intensity X-Ray pulses.
+
+{{< figure src="rttddft.jpeg" caption="" >}}
