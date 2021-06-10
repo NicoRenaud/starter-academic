@@ -1,6 +1,6 @@
 ---
 title: Deep Learning approach of Quantum Monte Carlo Simulations
-summary: Neural Network Wave Function Ansatz
+summary: Quantum Aware Neural Network form QMC
 tags:
 - Quantum Chemistry
 - Deep Learning
