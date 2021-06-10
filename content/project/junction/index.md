@@ -3,13 +3,15 @@ title: Molecular Junctions & Machine Learning
 summary: Improving conformational sampling using ML
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Molecular Dynamics
+- Quantum Transport
+date: "2016-02-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Molecular Dynamics in Tunelling Junctions
   focal_point: Smart
 
 # links:

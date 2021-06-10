@@ -2,14 +2,16 @@
 title: HPC for GW-BSE Simulations
 summary: Many-Body Physics for Excited State Chemistry
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Quantum Chemistry
+- GW-BSE
+- VOTCA-XTP
+date: "2015-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Electronic Structure of a benzen on a graphene Sheet
   focal_point: Smart
 
 # links:

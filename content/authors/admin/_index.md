@@ -14,7 +14,7 @@ organizations:
   url: https://www.esciencecenter.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Advancing Academic Research Through Through Software Development
+bio: Advancing Academic Research Through Software Development
 
 # # Interests to show in About widget
 # interests:

@@ -1,14 +1,16 @@
 ---
 title: Quantum Processing of Classical Information
 summary: Quantum Transport for Classical Computing
-
-date: "2016-04-27T00:00:00Z"
+tags:
+- Quantum Computing
+- Quantum Transport
+date: "2014-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Single Molecule Logic Gate in a Planar Junction
   focal_point: Smart
 
 # links:
